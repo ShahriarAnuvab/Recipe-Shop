@@ -1,1 +1,1 @@
-[Live_linkl](https://teeny-base.surge.sh/)
+[Live_link](https://teeny-base.surge.sh/)
